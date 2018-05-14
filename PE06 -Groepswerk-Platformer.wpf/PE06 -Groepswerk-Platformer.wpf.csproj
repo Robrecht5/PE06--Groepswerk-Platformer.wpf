@@ -93,5 +93,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PE06 -Groepswerk-Platformer\PE06 -Groepswerk-Platformer.csproj">
+      <Project>{f7f1bbcc-8704-4713-a590-31d69c6f3de4}</Project>
+      <Name>PE06 -Groepswerk-Platformer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE06 -Groepswerk-Platformer.wpf", "PE06 -Groepswerk-Platformer.wpf\PE06 -Groepswerk-Platformer.wpf.csproj", "{3B2F3F65-4739-45B3-A9EB-8BB350827E61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE06 -Groepswerk-Platformer", "PE06 -Groepswerk-Platformer\PE06 -Groepswerk-Platformer.csproj", "{F7F1BBCC-8704-4713-A590-31D69C6F3DE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B2F3F65-4739-45B3-A9EB-8BB350827E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B2F3F65-4739-45B3-A9EB-8BB350827E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B2F3F65-4739-45B3-A9EB-8BB350827E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F1BBCC-8704-4713-A590-31D69C6F3DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F1BBCC-8704-4713-A590-31D69C6F3DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F1BBCC-8704-4713-A590-31D69C6F3DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F1BBCC-8704-4713-A590-31D69C6F3DE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
